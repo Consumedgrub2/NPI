@@ -1,6 +1,6 @@
 # NonPlayingIntelligence (NPI)
 
-Non-Playing-Intelligence (NPI) is currently dead project that has hit a brick wall with the current state of AI Large Language Model (LLM) and GPU technology.
+Non-Playing-Intelligence (NPI) is a currently dead project that has hit a brick wall with the current state of AI Large Language Model (LLM) and GPU technology.
 The brick wall in this sense is the current reality of VRAM limitations with modern day GPUs and the open source state of AI LLMs. AI LLMs require GPU compute to run as well
 as VRAM for context and other processes. Currently, modern Low-end to Mid-end GPUs only have about 6GB - 12GB of VRAM. For this project to succeed, modern day GPUs would
 have to have around 24+ GB of VRAM. GPUs of this VRAM amount already exist, but are not widespread and accessible to the average consumer. Either that or AI LLMs would have
