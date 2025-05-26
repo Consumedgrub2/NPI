@@ -39,3 +39,6 @@ like give money to a player or move a charcter that represents the NPC.
 
 - Just get better GPUs?
   - High tier hardware and GPUs are expensive for most people
+
+- Have you heard of fine tuning an LLM innstead of this bolt-on system?
+  - Yes, but context of the game world cannot be passed into training data to tune the LLM in realtime while a game is running, another reason why tech isn't there yet
