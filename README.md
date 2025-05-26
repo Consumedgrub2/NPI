@@ -1,4 +1,4 @@
-# NPI
+# NonPlayingIntelligence (NPI)
 
 Non-Playing-Intelligence (NPI) is currently dead project that has hit a brick wall with the current state of AI Large Language Model (LLM) and GPU technology.
 The brick wall in this sense is the current reality of VRAM limitations with modern day GPUs and the open source state of AI LLMs. AI LLMs require GPU compute to run as well
