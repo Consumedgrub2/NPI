@@ -25,7 +25,7 @@ like give money to a player or move a charcter that represents the NPC.
 
 This could in theory, some level of this, be expanded upon, real-time training could be implemented, and could possibly lead to AI LLMs interacting with each other in a virtual fictional world akin to a game,
 and could potentially (Probably not) lead to AGI (Artificial General Intelligence). AGI raised from a virtual world may potentially be one way of achieving AGI.
-This is speculative, not tested and completely relies on the capabilities of the model used. (Which from from the start is not AGI)
+This is speculative, not tested and completely relies on the capabilities of the model used. (Which from the start is not AGI)
 
 ### FAQs
 
