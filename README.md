@@ -21,6 +21,12 @@ Additionally, the library interface layer would have to communicate with any gam
 prompt template so the LLM has the correct context to respond in a life-like way in accordance to the game world. The AI, as previously mentioned, would be able to send commands to the game engine to do things
 like give money to a player or move a charcter that represents the NPC.
 
+## Optimism Segment
+
+This could in theory, some level of this, be expanded upon, real-time training could be implemented, and could possibly lead to AI LLMs interacting with each other in a virtual fictional world akin to a game,
+and could potentially (Probably not) lead to AGI (Artificial General Intelligence). AGI raised from a virtual world may potentially be one way of achieving AGI.
+This is speculative, not tested and completely relies on the capabilities of the model used. (Which from from the start is not AGI)
+
 ### FAQs
 
 - Why not just use the cloud or some existing AI API?
